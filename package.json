@@ -1,0 +1,19 @@
+{
+  "name": "trainning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trainning.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsfoliveira/treinandoJavascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsfoliveira/treinandoJavascript/issues"
+  },
+  "homepage": "https://github.com/jsfoliveira/treinandoJavascript#readme"
+}
